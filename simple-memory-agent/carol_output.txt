@@ -1,0 +1,36 @@
+=== Carol Session 1 ===
+
+User: Hi, I'm Carol. I'm a data scientist.
+Agent: Great to meet you, Carol! I don't have any previous conversation history with you, so this is our first interaction. I'm excited to learn more about your work as a data scientist!
+
+I can help you with a wide range of things related to data science, such as:
+- **Technical questions** about Python, SQL, machine learning, statistics, data analysis
+- **Project guidance** - brainstorming ideas, debugging code, or thinking through approaches
+- **Career advice** - navigating the data science field, interviews, skill development
+- **Learning resources** - explanations of concepts, tutorials, best practices
+- **Data analysis** - help with datasets, visualizations, modeling strategies
+
+Is there something specific I can help you with today? Feel free to tell me about your current work or any challenges you're facing!
+
+User: What programming languages do I like?
+Agent: I don't have any information about your programming language preferences yet. This is our first conversation, so I haven't learned about your preferences or past work.
+
+Why don't you tell me what languages you prefer or work with most? For example:
+- Do you mainly use **Python** for data science work?
+- Do you also work with **R**, **SQL**, **Julia**, or other languages?
+- Are there particular languages you enjoy or find most productive?
+- Any languages you prefer to avoid?
+
+Once you share that, I can remember it for future conversations!
+
+User: Do you know what Alice prefers?
+Agent: No, I don't have any information about Alice's programming language preferences. My memory is specific to our conversations with you, Carol.
+
+I only have access to information from:
+- Our conversations together
+- Information you explicitly ask me to remember
+
+I don't have access to other people's conversations or preferences unless you share that information with me directly.
+
+Is Alice a colleague of yours, or were you curious about something else?
+
